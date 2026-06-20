@@ -56,3 +56,10 @@ I am a Software Engineering student passionate about technology, problem-solving
 ---
 
 ### "Learning, building, and improving one day at a time." 🌱
+
+## 📊 GitHub Stats
+
+![Taimur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=taimurdev&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taimurdev&layout=compact)
+
