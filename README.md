@@ -20,14 +20,11 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taimurdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Taimur's GitHub Stats" />
-</p>
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=taimurdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</p>
+![Taimur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=taimurdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-languages/?username=taimurdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
 ---
 
 ### 📫 Connect With Me
