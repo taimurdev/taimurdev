@@ -1,8 +1,8 @@
 # Hi there, I'm Syed Muhammad Taimur 👋
 
-### 🚀 Software Engineering Student & Full-Stack Developer Intern at SafX Solutions Islamabad
+### 🚀 Software Engineering Student & Full-Stack Developer Intern at SafeX Solutions Islamabad
 
-* 🌱 I’m currently building scalable web applications, mastering the **MERN Stack**, and gaining hands-on industry experience as an intern at **SafX Solutions**.
+* 🌱 I’m currently building scalable web applications, mastering the **MERN Stack**, and gaining hands-on industry experience as an intern at **SafeX Solutions**.
 * 💡 Working on my major project: **AI Student Roadmap** — An intelligent platform designed to help students discover personalized career paths and assess their skills.
 * ⚡ Always eager to learn new technologies, solve complex problems, and write clean, maintainable code.
 
